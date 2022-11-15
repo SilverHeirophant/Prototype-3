@@ -56,7 +56,10 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/scripts/NewBehaviourScript.cs" />
+    <Compile Include="Assets/scripts/RepeatBG.cs" />
+    <Compile Include="Assets/scripts/SpawnManager.cs" />
+    <Compile Include="Assets/scripts/PlayerController.cs" />
+    <Compile Include="Assets/scripts/MoveLeft.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Course Library/_Source_Files/Materials/UnlitVertexColour_Alpha.shader" />

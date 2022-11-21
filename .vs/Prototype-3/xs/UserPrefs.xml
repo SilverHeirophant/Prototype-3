@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/PlayerController.cs">
     <Files>
       <File FileName="Assets/scripts/MoveLeft.cs" Line="26" Column="1" />
-      <File FileName="Assets/scripts/PlayerController.cs" Line="44" Column="37" />
+      <File FileName="Assets/scripts/PlayerController.cs" Line="25" Column="6" />
       <File FileName="Assets/scripts/RepeatBG.cs" />
       <File FileName="Assets/scripts/SpawnManager.cs" />
     </Files>
@@ -20,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="604d86ef-6cee-4813-90e2-9e4903b60188" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dab7409c-b230-4bab-b65e-bdaddc24bfd9" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

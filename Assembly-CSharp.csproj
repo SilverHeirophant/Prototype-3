@@ -58,7 +58,12 @@
   <ItemGroup>
     <Compile Include="Assets/scripts/RepeatBG.cs" />
     <Compile Include="Assets/scripts/SpawnManager.cs" />
+    <Compile Include="Assets/Challenge 3/Scripts/MoveLeftX.cs" />
+    <Compile Include="Assets/Challenge 3/Scripts/SpawnManagerX.cs" />
     <Compile Include="Assets/scripts/PlayerController.cs" />
+    <Compile Include="Assets/Challenge 3/Scripts/RepeatBackgroundX.cs" />
+    <Compile Include="Assets/Challenge 3/Scripts/PlayerControllerX.cs" />
+    <Compile Include="Assets/Challenge 3/_Source_Files/SpinObjectsX.cs" />
     <Compile Include="Assets/scripts/MoveLeft.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,16 +1,25 @@
 ﻿<Properties StartupConfiguration="{0B6F6AEB-BCD1-670A-ECC0-082DD49C6566}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/PlayerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Challenge 3/Scripts/SpawnManagerX.cs">
     <Files>
+      <File FileName="Assets/Challenge 3/Scripts/MoveLeftX.cs" Line="27" Column="13" />
+      <File FileName="Assets/Challenge 3/Scripts/SpawnManagerX.cs" Line="25" Column="34" />
+      <File FileName="Assets/Challenge 3/Scripts/PlayerControllerX.cs" Line="23" Column="6" />
+      <File FileName="Assets/Challenge 3/Scripts/RepeatBackgroundX.cs" Line="16" Column="26" />
+      <File FileName="Assets/scripts/SpawnManager.cs" Line="8" Column="52" />
       <File FileName="Assets/scripts/MoveLeft.cs" Line="26" Column="1" />
-      <File FileName="Assets/scripts/PlayerController.cs" Line="42" Column="31" />
-      <File FileName="Assets/scripts/RepeatBG.cs" />
-      <File FileName="Assets/scripts/SpawnManager.cs" />
+      <File FileName="Assets/scripts/PlayerController.cs" Line="58" Column="50" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Prototype-3" expanded="True">
-            <Node name="Assets" expanded="True" selected="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Challenge 3" expanded="True">
+                <Node name="_Source_Files" expanded="True" />
+                <Node name="Scripts" expanded="True">
+                  <Node name="SpawnManagerX.cs" selected="True" />
+                </Node>
+              </Node>
               <Node name="scripts" expanded="True" />
             </Node>
           </Node>
@@ -20,7 +29,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9fd68ea8-b6e7-4734-a052-857e5c514597" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0cfd3420-2267-4e06-a4b2-0ddcd28bd44e" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

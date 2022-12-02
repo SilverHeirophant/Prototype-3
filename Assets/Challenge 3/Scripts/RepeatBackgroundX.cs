@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class RepeatBackgroundX : MonoBehaviour
 {
-    private Vector3 startPos = new Vector3(45, 9, 4);
+    private Vector3 startPos;
     private float repeatWidth;
 
     private void Start()
